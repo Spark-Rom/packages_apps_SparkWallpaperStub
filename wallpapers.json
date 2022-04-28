@@ -1,4 +1,46 @@
 {
+    "Spark": {
+        "author": "RupeshRN",
+        "featured": "sparkblue",
+        "wallpapers": {
+            "Spark Blue": {
+                "1": ""
+            },
+            "Spark Yellow": {
+                "1": ""
+            },
+            "Spark Orange": {
+                "1": ""
+            },
+            "Spark Green": {
+                "1": ""
+            },
+            "Spark Red": {
+                "1": ""
+            },
+            "Spark SemiBlue": {
+                "1": ""
+            },
+            "Spark DarkBlue": {
+                "1": ""
+            },
+            "Spark Original": {
+                "1": ""
+            },
+            "Spark Original2": {
+                "1": ""
+            },
+            "Spark Original3": {
+                "1": ""
+            },
+            "Spark Original4": {
+                "1": ""
+            },
+            "Spark Futuristic": {
+                "1": ""
+            }
+        }
+    },
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",

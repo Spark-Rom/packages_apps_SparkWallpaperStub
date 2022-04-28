@@ -15,6 +15,20 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_spark">Spark</string>
+    <string name="author_rupeshrn">by RupeshRN</string>
+    <string name="wallpaper_spark_spark_blue_1">Spark Blue</string>
+    <string name="wallpaper_spark_spark_yellow_1">Spark Yellow</string>
+    <string name="wallpaper_spark_spark_orange_1">Spark Orange</string>
+    <string name="wallpaper_spark_spark_green_1">Spark Green</string>
+    <string name="wallpaper_spark_spark_red_1">Spark Red</string>
+    <string name="wallpaper_spark_spark_semiblue_1">Spark SemiBlue</string>
+    <string name="wallpaper_spark_spark_darkblue_1">Spark DarkBlue</string>
+    <string name="wallpaper_spark_spark_original_1">Spark Original</string>
+    <string name="wallpaper_spark_spark_original2_1">Spark Original2</string>
+    <string name="wallpaper_spark_spark_original3_1">Spark Original3</string>
+    <string name="wallpaper_spark_spark_original4_1">Spark Original4</string>
+    <string name="wallpaper_spark_spark_futuristic_1">Spark Futuristic</string>
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>

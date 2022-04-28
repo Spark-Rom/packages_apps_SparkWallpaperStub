@@ -16,6 +16,82 @@
 -->
 <wallpapers>
 
+    <category id="spark" title="@string/category_spark" featured="sparkblue">
+
+        <static-wallpaper
+            id="spark_spark_blue_1"
+            src="@drawable/spark_spark_blue_1"
+            title="@string/wallpaper_spark_spark_blue_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_yellow_1"
+            src="@drawable/spark_spark_yellow_1"
+            title="@string/wallpaper_spark_spark_yellow_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_orange_1"
+            src="@drawable/spark_spark_orange_1"
+            title="@string/wallpaper_spark_spark_orange_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_green_1"
+            src="@drawable/spark_spark_green_1"
+            title="@string/wallpaper_spark_spark_green_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_red_1"
+            src="@drawable/spark_spark_red_1"
+            title="@string/wallpaper_spark_spark_red_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_semiblue_1"
+            src="@drawable/spark_spark_semiblue_1"
+            title="@string/wallpaper_spark_spark_semiblue_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_darkblue_1"
+            src="@drawable/spark_spark_darkblue_1"
+            title="@string/wallpaper_spark_spark_darkblue_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_original_1"
+            src="@drawable/spark_spark_original_1"
+            title="@string/wallpaper_spark_spark_original_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_original2_1"
+            src="@drawable/spark_spark_original2_1"
+            title="@string/wallpaper_spark_spark_original2_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_original3_1"
+            src="@drawable/spark_spark_original3_1"
+            title="@string/wallpaper_spark_spark_original3_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_original4_1"
+            src="@drawable/spark_spark_original4_1"
+            title="@string/wallpaper_spark_spark_original4_1"
+            subtitle1="@string/author_rupeshrn" />
+
+        <static-wallpaper
+            id="spark_spark_futuristic_1"
+            src="@drawable/spark_spark_futuristic_1"
+            title="@string/wallpaper_spark_spark_futuristic_1"
+            subtitle1="@string/author_rupeshrn" />
+
+    </category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper
